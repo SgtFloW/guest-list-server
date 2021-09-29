@@ -1,0 +1,27 @@
+{
+  "name": "guest-list-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgtFloW/guest-list-server.git"
+  },
+  "author": "SgtFloW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SgtFloW/guest-list-server/issues"
+  },
+  "homepage": "https://github.com/SgtFloW/guest-list-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1"
+  }
+}
